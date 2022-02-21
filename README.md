@@ -4,5 +4,5 @@ Shahid Beheshti University
 
 Lecturer 👩‍🏫 : Dr. M. Farhang 
 
-I Put my assignments, and interesting codes here! 
+I Put my assignments and codes here! 
 All I will write with Python.
