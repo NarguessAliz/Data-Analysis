@@ -1,4 +1,4 @@
-I took a University Course on Statics, Probability and Data Analysis at Shahid Beheshti University
+I took a University Course on Statistics, Probability and Data Analysis at Shahid Beheshti University.
 
 Lecturer 👩‍🏫 : Dr. M. Farhang 
 
